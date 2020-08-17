@@ -8,6 +8,9 @@
 <h3 align="center">
     <a href="https://disnil.vercel.app/">Acessar a demonstração</a>
 </h3>
+<h3 align="center">
+    <a href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar meu projeto principal da Imersão React</a>
+</h3>
 
 ##  Sobre
 A ideia desse projeto surgiu quando, em um stories no Instagram, Nilce mencionou a ideia hipotética de uma plataforma sua no estilo Netflix.
