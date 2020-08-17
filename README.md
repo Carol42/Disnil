@@ -15,7 +15,7 @@
 ##  Sobre
 A ideia desse projeto surgiu quando, em um stories no Instagram, Nilce mencionou a ideia hipotética de uma plataforma sua no estilo Netflix.
 
-Então eu resolvi utilizar o projeto desenvolvido durante a #ImersãoReact da Alura para criar a Disnil.
+Então eu resolvi utilizar o projeto desenvolvido durante a #ImersãoReact da Alura como base para criar a Disnil.
 
 ---
 
