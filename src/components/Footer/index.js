@@ -11,7 +11,7 @@ function Footer() {
          Caroline H Oliveira
         </a>
       </p>
-      <p>
+     {/* <p>
         Acesse:
         <a href="https://www.youtube.com/user/coisadenerd" > Coisa de Nerd</a>
         <a href="https://www.youtube.com/user/cadeachave" > Cadê a Chave?</a>
@@ -19,7 +19,7 @@ function Footer() {
         <a href="https://www.youtube.com/channel/UC6X2Vzr7iM1TyXlozomjOGQ" > Financeiro</a>
         <a href="https://www.youtube.com/channel/UCj_eKZk7V9VrGeiUz0XsWRw" > Quero Ouvir Podcast (YouTube)</a>
         <a href="https://open.spotify.com/show/0xA7pRQAWXrHyKJtAk7XaZ"> Quero Ouvir Podcast (Spotify)</a>
-      </p>
+     </p>*/}
     </FooterBase>
   );
 }
