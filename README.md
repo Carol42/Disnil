@@ -56,11 +56,11 @@ O evento ocorreu entre os dias 27 e 31 de julho de 2020 e tinha como objetivo de
 
 O projeto principal que eu desenvolvi foi o <a href="http://github.com/Carol42/DiverStudy">DiverStudy</a>, que se trata de uma coleção de vídeos didáticos e de qualidade para serem utilizados como material de apoio para estudantes e professores.
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=DC7194&style=flat&logo" alt="voltar ao topo" /></a></p>
-
 <div align="center">
     <img src="./src/assets/img/screenshot-disnil-2.png" alt="screenshot da página" width="80%">
 </div>
+
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=DC7194&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
