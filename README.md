@@ -13,6 +13,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/Disnil?color=F05032&logo=git&logoColor&style=plastic">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/Disnil?color=%23F7DF1E&logo=javascript&style=plastic">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Carol42/Disnil?style=plastic&color=DC7194">
+    <img alt="date created" src="https://badges.pufler.dev/created/Carol42/Disnil?style=plastic&color=CD7194">
     <img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=393&style=plastic&logo=" alt="status: concluído"/>
 </div>
 
