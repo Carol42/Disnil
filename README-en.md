@@ -1,6 +1,6 @@
 <div id="top"></div>
 <h1 align="center">
-    <img src="./src/assets/img/logo.png" alt="disnil logo">
+    <img src="https://github.com/Carol42/Disnil/blob/main/src/assets/img/logo.png" alt="disnil logo">
 </h1>
 
 <h2 align='center' >A Nilce Moretto's Netflix</h2>
@@ -21,8 +21,11 @@
 </h3>
 <h3 align="center">:link: <a href="https://github.com/Carol42/DiverStudy">Go to my main project of 'Imersão React'</a>
 </h3>
-<h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a>
-</h4>
+<!--<h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a></h4>-->
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Disnil/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Disnil/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
 <details>
     <summary>Table of contents</summary>
     <ol>
@@ -44,7 +47,7 @@ I had this idea when, on an Instagram story, Nilce mentioned the hypothetical id
 So I decided to use the project we developed during Alura's ImersãoReact as inspiration to create Disnil.
 
 <div align="center">
-    <img src="./src/assets/img/disnil-screenshot.png" alt="screenshot of the page" width="80%">
+    <img src="https://github.com/Carol42/Disnil/blob/main/src/assets/img/disnil-screenshot.png" alt="screenshot of the page" width="80%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=DC7194&style=flat&logo" alt="back to top" /></a></p>
@@ -58,7 +61,7 @@ The event was featured between the 27<sup>th</sup> and 31<sup>st</sup> of July 2
 The main project I've developed is <a href="http://github.com/Carol42/DiverStudy">DiverStudy</a>, which is about a video collection of high quality didactic videos to be used as support by students and teachers.
 
 <div align="center">
-    <img src="./src/assets/img/screenshot-disnil-2.png" alt="screenshot of the page" width="80%">
+    <img src="https://github.com/Carol42/Disnil/blob/main/src/assets/img/screenshot-disnil-2.png" alt="screenshot of the page" width="80%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=DC7194&style=flat&logo" alt="back to top" /></a></p>
